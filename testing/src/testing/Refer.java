@@ -8,7 +8,8 @@ public class Refer {
 		
 	}
 	public String nullCheck() {
-		bvkjsbvjkbjvkbjkv
+		//bvkjsbvjkbjvkbjkv
+	
 		return null;
 	}
 	public String helloCheck() {

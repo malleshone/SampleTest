@@ -10,4 +10,8 @@ public class Refer {
 	public String nullCheck() {
 		return null;
 	}
+	public String helloCheck() {
+		return null;
+	}
+	
 }
